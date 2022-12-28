@@ -105,11 +105,11 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-    <img height="300" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanchal-fatwani&show_icons=true&locale=en&layout=compact" alt="aanchal-fatwani" />
+    <img height="280" width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanchal-fatwani&show_icons=true&locale=en&layout=compact" alt="aanchal-fatwani" />
 </div>
 <div align="center">
-    <img height="275" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=aanchal-fatwani&" alt="aanchal-fatwani" />
-    <img height="275" width="450" src="https://github-readme-stats.vercel.app/api?username=aanchal-fatwani&show_icons=true&locale=en" alt="aanchal-fatwani" />
+    <img height="265" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=aanchal-fatwani&" alt="aanchal-fatwani" />
+    <img height="265" width="420" src="https://github-readme-stats.vercel.app/api?username=aanchal-fatwani&show_icons=true&locale=en" alt="aanchal-fatwani" />
 </div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=aanchal-fatwani&label=Profile%20views&color=0e75b6&style=flat" alt="aanchal-fatwani" /> </div>
