@@ -114,7 +114,8 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=aanchal-fatwani&label=Profile%20views&color=0e75b6&style=flat" alt="aanchal-fatwani" /> </div>
 
-<h4 align="center">Connect with me</h4>
+<h4 align="center">Find me at</h4>
 <p align="center">
-<a href="https://linkedin.com/in/aanchal-fatwani-a397201a2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="aanchal-fatwani-a397201a2" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/aanchal-fatwani-a397201a2" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="aanchal-fatwani-a397201a2" height="50" width="50" /></a>
+<a href="https://aanchalfatwani.hashnode.dev/" target="_blank"><img align="center" src="https://img.icons8.com/color/480/null/hashnode.png" alt="aanchalfatwani.hashnode.dev" height="50" width="50" /></a>
 </p>
